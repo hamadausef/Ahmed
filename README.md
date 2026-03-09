@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Full-Stack Developer with 8+ years of experience building management information systems, government portals, and business websites for international clients including the **World Bank, IRC, and UN agencies**. I specialize in creating scalable web solutions that solve real-world problems in complex environments—from enterprise-level MIS platforms to clean, responsive business websites.
 
@@ -16,7 +16,7 @@ As **Founder and Managing Director of Dalkaal Technology**, I lead a Somali tech
 
 ---
 
-## 🛠️ Core Tech Stack
+## Core Tech Stack
 
 | Category | Technologies |
 |----------|--------------|
@@ -39,19 +39,19 @@ As **Founder and Managing Director of Dalkaal Technology**, I lead a Somali tech
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-- 🚀 [NAGAAD MIS Portal](https://nagaad.mpwr.gov.so): Urban resilience MIS platform for World Bank (200+ gov users).
-- 💡 [SESRP Project Website](https://sesrp.moewr.gov.so): Energy sector recovery info portal.
-- 🏛️ [MoEWR Government Portal](https://moewr.gov.so): Ministry CMS with document repository.
-- 🖥️ [Dalkaal Technology Website](https://dalkaal.com): Tech company site, performance and branding.
-- 📈 [AdeegSan Consulting](https://www.adegsan.so): Responsive business consultancy site.
-- 🌍 [Horn Vision Relief](https://hornvision.org): Humanitarian org site.
-- 💙 [SORDO Website](https://sordo.org): Relief & development program showcase.
+- [NAGAAD MIS Portal](https://nagaad.mpwr.gov.so): Urban resilience MIS platform for World Bank (200+ gov users).
+- [SESRP Project Website](https://sesrp.moewr.gov.so): Energy sector recovery info portal.
+- [MoEWR Government Portal](https://moewr.gov.so): Ministry CMS with document repository.
+- [Dalkaal Technology Website](https://dalkaal.com): Tech company site, performance and branding.
+- [AdeegSan Consulting](https://www.adegsan.so): Responsive business consultancy site.
+- [Horn Vision Relief](https://hornvision.org): Humanitarian org site.
+- [SORDO Website](https://sordo.org): Relief & development program showcase.
 
 ---
 
-## 📑 Project Tech Highlights
+## Project Tech Highlights
 
 <details>
 <summary><b>NAGAAD MIS Portal</b> — <a href="https://nagaad.mpwr.gov.so">Live site</a></summary>
@@ -196,7 +196,7 @@ As **Founder and Managing Director of Dalkaal Technology**, I lead a Somali tech
 
 ---
 
-## 🏆 Certifications & Recognition
+## Certifications & Recognition
 
 - **World Bank Digital Innovation Workshops** (consultant, certified trainer)
 - **UN Web Platform Specialist** (system design, implementation)
