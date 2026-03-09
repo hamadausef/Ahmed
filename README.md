@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a Full-Stack Developer with 8+ years of experience building management information systems, government portals, and business websites for international clients including the **World Bank, IRC, and UN agencies**. I specialize in creating scalable web solutions that solve real-world problems in complex environments—from enterprise-level MIS platforms to clean, responsive business websites.
+I'm a Full-Stack Developer with 8+ years of experience building management information systems, government portals, and business websites for international clients including the **World Bank, AFD, and UN agencies**. I specialize in creating scalable web solutions that solve real-world problems in complex environments—from enterprise-level MIS platforms to clean, responsive business websites.
 
 As **Founder and Managing Director of Dalkaal Technology**, I lead a Somali technology company headquartered in Mogadishu, developing innovative information systems, cloud-engineered solutions, and enterprise software products for clients across Somalia and beyond.
 
